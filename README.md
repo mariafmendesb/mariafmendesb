@@ -30,7 +30,6 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=visionary&bg_color=000000&hide_border=true" />
 </p>
-
 ---
 
 ### Let's connect
