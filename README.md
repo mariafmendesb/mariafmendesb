@@ -1,4 +1,4 @@
-# Hi, I'm Maria! 👋
+# Hello, I'm Maria! 💻
 
 ### About Me
 I'm a Computer Science student currently exploring the tech world. At 24, I'm starting my journey in the corporate side of tech, focusing on building clean and secure digital experiences. 
@@ -28,7 +28,7 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=visionary&bg_color=000000&hide_border=true" />
 </p>
 
 ---
