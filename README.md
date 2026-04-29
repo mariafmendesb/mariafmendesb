@@ -14,7 +14,7 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 
 ### Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,css,html,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,css,html,git,github,vscode,figma" />
 </div>
 
 ---
@@ -28,7 +28,7 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=visionary&bg_color=000000&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=visionary&bg_color=000000&hide_border=true" />
 </p>
 
 ---
