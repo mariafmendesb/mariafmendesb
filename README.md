@@ -14,7 +14,7 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 
 ### Tech Stack
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js,css,html,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,css,html,git,github,vscode" />
 </div>
 
 ---
