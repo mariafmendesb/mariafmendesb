@@ -28,7 +28,7 @@ This GitHub profile serves as a portfolio of my learning process, covering every
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariafmendesb&show_icons=true&theme=tokyonight" />
 </div>
 
 ---
